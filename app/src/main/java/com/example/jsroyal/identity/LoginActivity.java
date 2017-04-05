@@ -67,22 +67,11 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                     public void onResponse(String response) {
                         //If we are getting success from server
                         if(response.equalsIgnoreCase(AppConfig.LOGIN_SUCCESS)){
-                            //Creating a shared preference
-                            SharedPreferences sharedPreferences = LoginActivity.this.getSharedPreferences(AppConfig.SHARED_PREF_NAME, Context.MODE_PRIVATE);
-
-                            //Creating editor to store values to shared preferences
-                            SharedPreferences.Editor editor = sharedPreferences.edit();
-
-                            //Adding values to editor
-                            editor.putBoolean(AppConfig.LOGGEDIN_SHARED_PREF, true);
-                            editor.putString(AppConfig.EMAIL_SHARED_PREF, email);
-
-                            //Saving values to editor
-                            editor.commit();
+                            Toast.makeText(LoginActivity.this, " "+response, Toast.LENGTH_LONG).show();
                         }else{
                             //If the server response is not success
                             //Displaying an error message on toast
-                            Log.d("Response","");
+                            Log.d("Response","Here");
                             Toast.makeText(LoginActivity.this, " "+response, Toast.LENGTH_LONG).show();
                        }
                     }
