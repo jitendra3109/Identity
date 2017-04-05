@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_8f3fd0ea5a8efa961725c4632524d2ddd00105e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c0bc043728791888284410f49778b19d5cc487fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_b3cb47f7ecadf5051e3983244d6e38b544edbc47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_0bed1bad55f023a3ae27a2befafcfab14b1790b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_97efbcea30d4453fd968d6299b73a7940791ff92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_cb722025af23db38ae6dd0292415f85370c65e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_e298e30d532d2ef61e95952b9dbc82da79fe0be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_8d215d974261788a1222e7061ef57f4763013f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_0702b445bf4ea835ea98ab91627c39854af96dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_d41e81cae3beb1b93da0ee0109a2b12c2e70714e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_a494a9b518a46eeafbf2ee93d7c3d06b1fc9813a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_06ccf02b9a0ca4316e566ccd81cdfa6aea8344af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_bed56a9b17d3c13340d7808eeccc53c23974ebfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_cf0ca3ac2d4860479754583766136672837b5418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_e4064ae495cc16b41a291be4c7e4a80f67eb6985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/jsroyal/WhitePanda/Identity/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_5e8f06c1113ec5ac71459155acc206898db8f52f.jar" />
+    </item>
+
+</items>
